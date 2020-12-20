@@ -10,4 +10,4 @@ hello !!
 
 Bye     :D
 
-asus master local (asus branch local : ttttttttttttt )
+asus branch remote (asus master local (asus branch local : ttttttttttttt ))
